@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 --->
 <br>
 
-- 🔭 I’m currently working on **SGI Games (private Typescript project), a stealth React project, and a React Progressive Web Application**
+- 🔭 I’m currently working on:
+  - **SGI Games (private Typescript project)
+  - a stealth React project
+  - a React Progressive Web Application**
 - 🌱 I’m currently learning **danza Azteca plus my numbers in Nahuatl**
 - 👯 I’m looking to collaborate on **open source projects related to AI**
 - 🤔 I’m looking for help with **mobile security implementation**
