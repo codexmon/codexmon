@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   - **SGI Games (private Typescript project)**
-  - **a stealth React project**
-  - **a React Progressive Web Application**
+  - **a stealth React project (also private)**
+  - **a React Progressive Web Application (also private)**
 - 🌱 I’m currently learning
   - **danza Azteca**
   - **my numbers in Nahuatl**
