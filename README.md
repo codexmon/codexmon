@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="center">My GitHub Stats 📊</h3>
-<p>Most used languages are derived from public repositories only.</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codexmon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="codexmon's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexmon&theme=radical&hide_border=true" alt="codexmon's GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexmon&layout=compact&theme=radical&hide_border=true" alt="codexmon's Top Languages" />
+  <p>*Most used languages are derived from public repositories only.</p>
 </div>
 
 <hr>
