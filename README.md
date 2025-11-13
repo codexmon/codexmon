@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@codexmon's Holopin badges]([https://holopin.io/api/user/board?user=rphi](https://www.holopin.io/@codexmon#badges))](https://holopin.io/@codexmon)
+[![@codexmon's Holopin badges]([https://holopin.io/api/user/board?user=codexmon](https://www.holopin.io/@codexmon#badges))](https://holopin.io/@codexmon)
 
