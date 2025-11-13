@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Holopin Badges</h3>
   <a href="https://holopin.io/@codexmon">
-    <img src="https://holopin.io/api/user/board?user=codexmon" alt="@codexmon's Holopin badges">
+    <img src="https://holopin.me/codexmon" alt="@codexmon's Holopin badges">
   </a>
 </div>
 
