@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I’m currently working on **SGI Games (private) and stealth project**
-- 🌱 I’m currently learning **danza Azteca**
+- 🌱 I’m currently learning **danza Azteca plus my numbers in Nahuatl**
 - 👯 I’m looking to collaborate on **open source projects related to AI**
 - 🤔 I’m looking for help with **mobile security implementation**
 - 💬 Ask me about **React, React Native, and cloud infrastructure**
