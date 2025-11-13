@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 --->
 <br>
 
-- 🔭 I’m currently working on **Your Project Name**
-- 🌱 I’m currently learning **React and GraphQL**
+- 🔭 I’m currently working on **SGI Games (private) and stealth project**
+- 🌱 I’m currently learning **danza Azteca**
 - 👯 I’m looking to collaborate on **open source projects related to AI**
-- 🤔 I’m looking for help with **advanced testing strategies**
-- 💬 Ask me about **Python, JavaScript, and cloud infrastructure**
-- 📫 How to reach me: **your.email@example.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
+- 🤔 I’m looking for help with **mobile security implementation**
+- 💬 Ask me about **React, React Native, and cloud infrastructure**
+- 📫 How to reach me: **LinkedIn**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **I enjoy creative writing.**
 
 <hr>
 
