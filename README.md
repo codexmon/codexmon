@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexmon&theme=radical&hide_border=true" alt="codexmon's GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexmon&layout=compact&theme=radical&hide_border=true" alt="codexmon's Top Languages" />
-  <p>*Most used languages are derived from public repositories only.</p>
-  <p>Across private repositories, over 90% of the languages used is JavaScript.</p>
+  <p>*Most used languages statistic is derived from public repositories only.<br />
+  Across private repositories, over 90% of the languages used is JavaScript.</p>
 </div>
 
 <hr>
