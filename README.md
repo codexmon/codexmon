@@ -69,6 +69,7 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexmon&layout=compact&theme=radical&hide_border=true" alt="codexmon's Top Languages" />
   <p>*Most used languages are derived from public repositories only.</p>
+  <p>Across private repositories, over 90% of the languages used is JavaScript.</p>
 </div>
 
 <hr>
